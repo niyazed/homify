@@ -1,5 +1,5 @@
 # Homify 🏠
-Home Automation with RPi
+Home Automation with RPi and Motion sensor
 
 ### Installation
 You can install all the dependencies at once by running the following command from your terminal.
